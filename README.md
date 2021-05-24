@@ -40,3 +40,7 @@ Upon running a Confusion Matrix is generated for each Supervised Learning Algori
 ![image](https://user-images.githubusercontent.com/73174341/119392508-21ba2980-bcd0-11eb-9a15-96ed1a37aeb0.png)
 
 #Resultantly, the highest classification accuracy recorded is 96%+ !
+
+## Documentation 
+
+The full documentation of the project can be found on 'Human Activity Recognition.pdf'
